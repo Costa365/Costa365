@@ -1,23 +1,16 @@
-<div align="center">
 
-# Hi, I'm Costa Constantinou 👋
+# Hi, I'm Costa 👋
 
-### Engineering Manager · Builder · Curious by nature
+I’m an engineer and manager of engineers who enjoys building things, exploring technologies, and turning ideas into useful applications.
 
-📍 **Larnaca, Cyprus**
-
-I’m an engineering manager who enjoys building things, exploring technologies, and turning ideas into useful applications.
-
-From web apps and APIs to retro games and infrastructure experiments, this is where I share my projects.
+From web apps and APIs to retro games and infrastructure experiments, this is where I share my personal projects, which are created for my own use and educational purposes.
 
 <a href="https://costa365.rf.gd/"><img src="https://img.shields.io/badge/Explore_my_projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore my project portal"></a>
 <a href="https://www.linkedin.com/in/costa-constantinou-b502811a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Costa on LinkedIn"></a>
 
-</div>
-
 ---
 
-## 🛠️ Languages & tools
+## 🛠️ Languages & Tools
 
 A snapshot of the technologies used across my public repositories.
 
@@ -32,7 +25,7 @@ A snapshot of the technologies used across my public repositories.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Frameworks & runtimes**
+**Frameworks & Runtimes**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -41,7 +34,7 @@ A snapshot of the technologies used across my public repositories.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
 
-**Infrastructure & data**
+**Infrastructure & Data**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
