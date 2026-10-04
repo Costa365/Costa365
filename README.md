@@ -1,7 +1,7 @@
 
 # Hi, I'm Costa 👋
 
-I’m an engineer and manager of engineers who enjoys building things, exploring technologies, and turning ideas into useful applications.
+I’m an engineer and leader who enjoys building things, exploring technologies, and turning ideas into useful applications. I made contributions to private repos using other accounts, including [CostaGcore](https://github.com/CostaGcore).
 
 From web apps and APIs to retro games and infrastructure experiments, this is where I share my personal projects, which are created for my own use and educational purposes.
 
