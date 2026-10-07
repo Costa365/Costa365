@@ -8,6 +8,8 @@ From web apps and APIs to retro games and infrastructure experiments, this is wh
 <a href="https://costa365.rf.gd/"><img src="https://img.shields.io/badge/Explore_my_projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore my project portal"></a>
 <a href="https://www.linkedin.com/in/costa-constantinou-b502811a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Costa on LinkedIn"></a>
 
+[![Codewars](https://www.codewars.com/users/costa365/badges/large)](https://www.codewars.com/users/costa365)
+
 ---
 
 ## 🛠️ Languages & Tools
