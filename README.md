@@ -1,14 +1,14 @@
 
 # Hi, I'm Costa 👋
 
-I’m an engineer and leader who enjoys building things, exploring technologies, and turning ideas into useful applications. I made contributions to private repos using other accounts, including [CostaGcore](https://github.com/CostaGcore).
+I’m an engineer and leader who enjoys building things, exploring technologies, and turning ideas into useful applications. I've also made contributions to private repos using other accounts, including [CostaGcore](https://github.com/CostaGcore).
 
 From web apps and APIs to retro games and infrastructure experiments, this is where I share my personal projects, which are created for my own use and educational purposes.
 
 <a href="https://costa365.rf.gd/"><img src="https://img.shields.io/badge/Explore_my_projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore my project portal"></a>
 <a href="https://www.linkedin.com/in/costa-constantinou-b502811a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Costa on LinkedIn"></a>
 
-[![Codewars](https://www.codewars.com/users/costa365/badges/large)](https://www.codewars.com/users/costa365)
+[![Codewars](https://www.codewars.com/users/costa365/badges/small)](https://www.codewars.com/users/costa365)
 
 ---
 
@@ -53,13 +53,8 @@ A snapshot of the technologies used across my public repositories.
 | 🎬 [Screened](https://github.com/Costa365/screened) | Tracks watched movies with TMDB posters and metadata | React · TypeScript · FastAPI · SQLite |
 | ✈️ [LCA Flights](https://github.com/Costa365/lca-flights) | Displays arrivals and departures at Larnaca Airport | React · TypeScript · Python · Docker |
 | 📋 [Kanban](https://github.com/Costa365/Kanban) | Organizes tasks on a board with drag and drop | Angular · Express · Node.js · MongoDB |
-| ☸️ [Kubernetes Demo](https://github.com/Costa365/k8s-demo) | Runs a microservices application locally on Kubernetes | Kubernetes · Docker · Flask · Nginx |
+| ☸️ [K8S Demo](https://github.com/Costa365/k8s-demo) | Runs a microservices application locally on Kubernetes | Kubernetes · Docker · Flask · Nginx |
 | 🧩 [tetrish](https://github.com/Costa365/tetrish) | Brings Tetris to the Linux terminal | Bash |
+| ⚠️ [Earthquakes](https://github.com/Costa365/Earthquakes) | View the latest high-magnitude seismic activity globally | Python · Flask · Redis |
+| 🤣 [Joker](https://github.com/Costa365/Joker) | View and rate random dad jokes | Go · Turso/SQLite · htmx |
 
----
-
-<div align="center">
-
-**Explore more at [my project portal](https://costa365.rf.gd/) · Let's connect on [LinkedIn](https://www.linkedin.com/in/costa-constantinou-b502811a/)**
-
-</div>
