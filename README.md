@@ -24,6 +24,7 @@ A snapshot of the technologies used across my public repositories.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -35,6 +36,7 @@ A snapshot of the technologies used across my public repositories.
 ![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Infrastructure & Data**
 
@@ -50,11 +52,12 @@ A snapshot of the technologies used across my public repositories.
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
+| 👥 [Mingle](https://github.com/Costa365/mingle) | Team building games for remote teams | .NET Core · C# · React · Typescript · SQLite |
 | 🎬 [Screened](https://github.com/Costa365/screened) | Tracks watched movies with TMDB posters and metadata | React · TypeScript · FastAPI · SQLite |
 | ✈️ [LCA Flights](https://github.com/Costa365/lca-flights) | Displays arrivals and departures at Larnaca Airport | React · TypeScript · Python · Docker |
 | 📋 [Kanban](https://github.com/Costa365/Kanban) | Organizes tasks on a board with drag and drop | Angular · Express · Node.js · MongoDB |
 | ☸️ [K8S Demo](https://github.com/Costa365/k8s-demo) | Runs a microservices application locally on Kubernetes | Kubernetes · Docker · Flask · Nginx |
-| 🧩 [tetrish](https://github.com/Costa365/tetrish) | Brings Tetris to the Linux terminal | Bash |
+| 🧩 [Tetrish](https://github.com/Costa365/tetrish) | Brings Tetris to the Linux terminal | Bash |
 | ⚠️ [Earthquakes](https://github.com/Costa365/Earthquakes) | View the latest high-magnitude seismic activity globally | Python · Flask · Redis |
 | 🤣 [Joker](https://github.com/Costa365/Joker) | View and rate random dad jokes | Go · Turso/SQLite · htmx |
 
