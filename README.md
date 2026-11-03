@@ -45,6 +45,7 @@ A snapshot of the technologies used across my public repositories.
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -60,4 +61,5 @@ A snapshot of the technologies used across my public repositories.
 | 🧩 [Tetrish](https://github.com/Costa365/tetrish) | Brings Tetris to the Linux terminal | Bash |
 | ⚠️ [Earthquakes](https://github.com/Costa365/Earthquakes) | View the latest high-magnitude seismic activity globally | Python · Flask · Redis |
 | 🤣 [Joker](https://github.com/Costa365/Joker) | View and rate random dad jokes | Go · Turso/SQLite · htmx |
+| 🔲 [CPU Info](https://github.com/Costa365/CpuBenchmark) | View and compare benchmarks for laptop, desktop and server CPUs | PHP · MySQL |
 
