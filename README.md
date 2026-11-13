@@ -56,7 +56,7 @@ A snapshot of the technologies used across my public repositories.
 | :--- | :--- | :--- |
 | 👥 [Mingle](https://github.com/Costa365/mingle) | Team building games for remote teams | .NET Core · C# · React · Typescript · SQLite |
 | 🎬 [Screened](https://github.com/Costa365/screened) | Tracks watched movies with TMDB posters and metadata | React · TypeScript · FastAPI · SQLite |
-| 🎬 [Daymark](https://github.com/Costa365/daymark) | Set daily goals, track progress - build consistency through streaks | React · TypeScript · Python · Django · MongoDB |
+| 🗹 [Daymark](https://github.com/Costa365/daymark) | Set daily goals, track progress - build consistency through streaks | React · TypeScript · Python · Django · MongoDB |
 | ✈️ [LCA Flights](https://github.com/Costa365/lca-flights) | Displays arrivals and departures at Larnaca Airport | React · TypeScript · Python · Docker |
 | 📋 [Kanban](https://github.com/Costa365/Kanban) | Organizes tasks on a board with drag and drop | Angular · Express · Node.js · MongoDB |
 | ☸️ [K8S Demo](https://github.com/Costa365/k8s-demo) | Runs a microservices application locally on Kubernetes | Kubernetes · Docker · Flask · Nginx |
