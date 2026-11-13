@@ -36,6 +36,7 @@ A snapshot of the technologies used across my public repositories.
 ![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Infrastructure & Data**
@@ -55,6 +56,7 @@ A snapshot of the technologies used across my public repositories.
 | :--- | :--- | :--- |
 | 👥 [Mingle](https://github.com/Costa365/mingle) | Team building games for remote teams | .NET Core · C# · React · Typescript · SQLite |
 | 🎬 [Screened](https://github.com/Costa365/screened) | Tracks watched movies with TMDB posters and metadata | React · TypeScript · FastAPI · SQLite |
+| 🎬 [Daymark](https://github.com/Costa365/daymark) | Set daily goals, track progress - build consistency through streaks | React · TypeScript · Python · Django · MongoDB |
 | ✈️ [LCA Flights](https://github.com/Costa365/lca-flights) | Displays arrivals and departures at Larnaca Airport | React · TypeScript · Python · Docker |
 | 📋 [Kanban](https://github.com/Costa365/Kanban) | Organizes tasks on a board with drag and drop | Angular · Express · Node.js · MongoDB |
 | ☸️ [K8S Demo](https://github.com/Costa365/k8s-demo) | Runs a microservices application locally on Kubernetes | Kubernetes · Docker · Flask · Nginx |
